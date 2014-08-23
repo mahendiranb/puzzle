@@ -6,6 +6,7 @@
 int main ()
 {
 	char str [] = "a b c This is a first program test";
+	/*expected output: test program first a is This c b a*/
 	size_t l;
 	char *p;
 	
